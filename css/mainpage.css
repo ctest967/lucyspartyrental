@@ -1,0 +1,391 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  margin : 0 0;
+
+}
+/*
+==================================================
+navbar
+==================================================
+*/
+ .navbar{
+	background-color: #f406f9!important;
+
+}
+
+a{
+  font-size:   20px ;
+}
+.social-part .fa{
+    padding-right:20px;
+}
+ul li a{
+    margin-right: 20px;
+}
+
+/*
+==================================================
+jumbotron
+==================================================
+*/
+
+  .jumbotron {
+    background-size: cover;
+    height: 768px;
+    text-align: center;
+    width: 100%;
+}
+
+
+  .jumbotron header {
+    background: rgba(0, 0, 0, 0.5);
+    color: #eee;
+    margin: 250px auto;
+    max-width: 600px;
+    padding: 20px 20px;
+}
+
+
+
+
+/*
+================================================
+Section 1 rentals
+==================================================
+*/
+
+.s1 {
+  background: #eee;
+}
+
+/*
+==================================================
+Section 2
+==================================================
+*/
+
+.s2 {
+  background: #fff;
+
+}
+
+/*
+==================================================
+Section 3
+==================================================
+*/
+
+.s3 {
+  background: #eee;
+
+}
+
+/*
+==================================================
+Section 4
+==================================================
+*/
+
+.s4 {
+  background: #fff;
+
+}
+
+/*
+==================================================
+Section 5
+==================================================
+*/
+
+.s5 {
+  background: #eee;
+
+}
+
+/*
+==================================================
+Section 6
+==================================================
+*/
+
+.s6 {
+  background: #fff;
+
+}
+
+/*
+==================================================
+media queries
+==================================================
+*/
+
+@media (min-width: 576px)
+
+
+
+
+div.container{
+    margin-top : 5em;
+}
+
+    width: 70%;
+    height: auto;
+    box-shadow: 0 8px 30px 2px rgba(0, 0, 0, .5);
+}
+
+
+ .jumbotron.container.thumpnail  {
+   margin-top: 10em;
+   padding-top: 40px;
+   width: 70%;
+}
+
+
+@media (max-width: 768px)
+.row .col, .row-halves .col, .row-thirds .col, .row-fourths .col
+    margin: 0;
+    width: 100%;
+}
+.row-halves .col {
+    width: 49%;
+}
+.col {
+    padding: 20px;
+}
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+
+img {
+    width: 70%;
+    height: auto;
+
+
+.img-container {
+    max-width: 800px;
+    height: auto;
+}
+
+.bundled, .s1, .s2, .s3, .s4, .s5, .s6 {
+    width: 100%;
+    height: auto;
+    padding: 100px 50px;
+    color: #303030;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 18px;
+    margin: 25px 0;
+    border: 1px solid #00CCA0;
+    background: transparent;
+    color: #00CCA0;
+    border-radius: 50px;
+    text-transform: uppercase;
+    transition: all .35s;
+}
+
+.btn:hover {
+    background: #00CCA0;
+    color: #4CFFD9;
+}
+
+.gold{
+  background-color: #FFD700;
+}
+
+.silver{
+  background-color: #C0C0C0;
+}
+
+.bronze{
+  background-color: #cd7f32;
+}
+/*
+
+
+==================================================
+Grid Layout
+==================================================
+*/
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 0 20px 0;
+}
+
+.col {
+    padding: 20px;
+}
+
+.row .col {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.row-halves, .row-thirds, .row-fourths {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.row-halves .col {
+    width: 49%;
+}
+
+.row-thirds .col {
+    width: 32%;
+}
+
+.row-fourths .col {
+    width: 24%;
+
+}
+
+.mobile {
+    display: block;
+  }
+
+  .move {
+    display: none;
+  }
+
+
+
+
+/*
+==================================================
+
+Media Queries
+
+==================================================
+
+*/
+
+ Extra small devices (portrait phones, less than 576px)
+ No media query since this is the default in Bootstrap
+
+ Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+ Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+ Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+ Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+@media(max-width: 1024px) {
+}
+
+
+
+  .row,
+
+  .row-halves,
+
+  .row-thirds,
+
+  .row-fourths {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+}
+
+
+  .row .col,
+
+  .row-halves .col,
+
+  .row-thirds .col,
+
+  .row-fourths .col {
+
+    width: 100%;
+
+    margin: 10px;
+
+  }
+
+
+
+  .mobile {
+
+    display: block;
+
+  }
+
+
+
+  .move {
+
+    display: none;
+
+  }
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+
+
+
+
+  }
+
+
+
+  .mobile-navbar {
+
+    display: flex;
+
+  }
+
+
+
+  .about, .s1, .s2, .s3, .s4, .s5, .s6 {
+
+    padding: 100px 0;
+
+  }
+
+
+
+
+@media(max-width: 475px) {
+
+  .jumbotron header {
+
+    margin: 150px auto;
+
+  }
+
+  h1 {
+
+    font-size: 1.5em;
+
+  }
+
+}
+
+

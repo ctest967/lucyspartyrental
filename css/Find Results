@@ -1,0 +1,549 @@
+Searching 56 files for "#FFFFFF"
+
+D:\lucyspartyrental2.com\Find Results:
+   59    200: .shop-menu ul li a {
+   60    201    background:none;
+   61:   202    color: #FFFFFF;
+   62    ...
+   63    210
+   ..
+  122    202
+  123    203: .shop-menu ul li a {
+  124:   204    background: #FFFFFF;
+  125    205    color: #696763;
+  126    ...
+
+D:\lucyspartyrental2.com\css\main.css:
+  256  .dropdown-menu  li  a:hover.dropdown-menu  li  a:focus {
+  257    background: #f406f9;
+  258:   color: #FFFFFF;
+  259    font-family: 'Roboto', sans-serif;
+  260    text-decoration: none;
+  ...
+  292  .shop-menu ul li a:hover {
+  293    color:#2AD925;
+  294:   background:#FFFFFF;
+  295  }
+  296  
+  ...
+  544  
+  545  .footer-widget .container {
+  546:   border-top: 1px solid #FFFFFF;
+  547    padding-top: 15px;
+  548  }
+  ...
+  601  
+  602  .searchform button i {
+  603:   color: #FFFFFF;
+  604    font-size: 20px;
+  605  }
+  ...
+  749    border: 0 none;
+  750    border-radius: 0;
+  751:   color: #FFFFFF;
+  752    font-family: 'Roboto', sans-serif;
+  753    font-size: 16px;
+  ...
+  830  
+  831  .category-products .panel {
+  832:   background-color: #FFFFFF;
+  833    border: 0px;
+  834    border-radius: 0px;
+  ...
+  838  
+  839  .category-products .panel-default .panel-heading {
+  840:   background-color: #FFFFFF;
+  841    border: 0 none;
+  842:   color: #FFFFFF;
+  843    padding: 5px 20px;
+  844  }
+  ...
+  891  
+  892  .brands-name .nav-stacked li a {
+  893:   background-color: #FFFFFF;
+  894    color: #696763;
+  895    font-family: 'Roboto', sans-serif;
+  ...
+  919  
+  920  .well {
+  921:   background-color: #FFFFFF;
+  922    border: 1px solid #F7F7F0;
+  923    border-radius: 4px;
+  ...
+  932    background-color: #FFFFFF;
+  933    border-radius: 4px;
+  934:   color: #FFFFFF;
+  935    max-width: 200px;
+  936    padding: 3px 8px;
+  ...
+ 1120    border: 0 none;
+ 1121    border-radius: 0;
+ 1122:   color: #FFFFFF;
+ 1123  }
+ 1124  
+ ....
+ 1133  .add-to-cart:hover {
+ 1134    background: #FFFFFF;
+ 1135:   color: #FFFFFF;
+ 1136  }
+ 1137  
+ ....
+ 1192    background-color: #f406f9;
+ 1193    border:0px;
+ 1194:   color: #FFFFFF;
+ 1195    cursor: default;
+ 1196    margin-right:0;
+ ....
+ 1220  .recommended-item-control i {
+ 1221    background: none repeat scroll 0 0 #FFFFFF;
+ 1222:   color: #FFFFFF;
+ 1223    font-size: 20px;
+ 1224    padding: 4px 10px;
+ ....
+ 1279    background-color: #FFFFFF;
+ 1280    border-color: #FFFFFF;
+ 1281:   color: #FFFFFF;
+ 1282    cursor: default;
+ 1283    z-index: 2;
+ ....
+ 1375    background: #FFFFFF;
+ 1376    bottom: 0;
+ 1377:   color: #FFFFFF;
+ 1378    font-family: 'Roboto', sans-serif;
+ 1379    font-size: 14px;
+ ....
+ 1400  .item-control i {
+ 1401    background: #FFFFFF;
+ 1402:   color: #FFFFFF;
+ 1403    font-size: 20px;
+ 1404    padding: 5px 10px;
+ ....
+ 1495    border: 0 none;
+ 1496    border-radius: 0;
+ 1497:   color: #FFFFFF;
+ 1498    font-family: 'Roboto', sans-serif;
+ 1499    font-size: 15px;
+ ....
+ 1517  
+ 1518  #reviews ul {
+ 1519:   background: #FFFFFF;
+ 1520    border: 0 none;
+ 1521    list-style: none outside none;
+ ....
+ 1586    border: 0 none;
+ 1587    border-radius: 0;
+ 1588:   color: #FFFFFF;
+ 1589    font-family: 'Roboto', sans-serif;
+ 1590    font-size: 14px;
+ ....
+ 1623  .content-404 h2 a {
+ 1624    background: #FFFFFF;
+ 1625:   color: #FFFFFF;
+ 1626    font-family: 'Roboto', sans-serif;
+ 1627    font-size: 44px;
+ ....
+ 1680    border-radius: 0;
+ 1681    border: medium none;
+ 1682:   color: #FFFFFF;
+ 1683    display: block;
+ 1684    font-family: 'Roboto', sans-serif;
+ ....
+ 1708    background: #FFFFFF;
+ 1709    border-radius: 40px;
+ 1710:   color: #FFFFFF;
+ 1711    font-family: 'Roboto', sans-serif;
+ 1712    font-size: 16px;
+ ....
+ 1739  .breadcrumbs .breadcrumb li a {
+ 1740    background:#F406F9;
+ 1741:   color: #FFFFFF;
+ 1742    padding: 3px 7px;
+ 1743  }
+ ....
+ 1863  .cart_delete a {
+ 1864    background:#F0F0E9;
+ 1865:   color: #FFFFFF;
+ 1866    font-size: 16px
+ 1867    padding: 5px 7px;
+ ....
+ 1976    border-radius: 0;
+ 1977    border: none;
+ 1978:   color: #FFFFFF;
+ 1979    margin-top: 18px;
+ 1980    padding: 5px 15px;
+ ....
+ 2258  .post-meta, ul li i {
+ 2259    background:none;
+ 2260:   color: #FFFFFF;
+ 2261    margin-left: -4px;
+ 2262    margin-right: 7px;
+ ....
+ 2299    border-radius: 0;
+ 2300    border: medium none;
+ 2301:   color: #FFFFFF;
+ 2302    margin-top: 17px;
+ 2303  }
+ ....
+ 2482    border: 0 none;
+ 2483    border-radius: 0;
+ 2484:   color: #FFFFFF;
+ 2485    float: left;
+ 2486    font-size: 10px;
+ ....
+ 2538  .sinlge-post-meta li i {
+ 2539    background:#FFFFFF;
+ 2540:   color: #FFFFFF;
+ 2541    margin-right: 10px;
+ 2542    padding: 8px 10px;
+ ....
+ 2565  .replay-box label {
+ 2566    background:#FFFFFF;
+ 2567:   color: #FFFFFF;
+ 2568    float: left;
+ 2569    font-weight: 400;
+
+D:\lucyspartyrental2.com\js\contact.js:
+   41  		verticalAlign: 'bottom',
+   42  		horizontalAlign: 'center',
+   43: 		backgroundColor: '#ffffff',
+   44  	});
+   45  
+
+35 matches across 3 files
+
+
+Searching 56 files for "#FFFFFF"
+
+D:\lucyspartyrental2.com\Find Results:
+  133    219
+  134    220: .shop-menu ul li a:hover {
+  135:   221  	color:#FFFFFF;
+  136    222  	background:#fff;
+  137    ...
+
+D:\lucyspartyrental2.com\css\main.css:
+   57    right: 10px;
+   58    padding: 5px 10px;
+   59:   background: #FFFFFF;
+   60    color: #FFF;
+   61    -webkit-animation: bounce 2s ease infinite;
+   ..
+  238  
+  239  .usa:hover {
+  240:   background:#FFFFFF;
+  241    color:#fff;
+  242:   border-color:#FFFFFF;
+  243  }
+  244  
+  245  .usa:active, .usa.active {
+  246:   background: none repeat scroll 0 0 #FFFFFF;
+  247    box-shadow: inherit;
+  248    outline: 0 none;
+  ...
+  441  
+  442  .companyinfo h2  span{
+  443:   color:#FFFFFF;
+  444  }
+  445  
+  ...
+  479    width: 100%;
+  480    height: 61px;
+  481:   background: #FFFFFF;
+  482    border-radius: 3px;
+  483    color: #FFF;
+  ...
+  575  .single-widget ul li a:hover{
+  576    background:none;
+  577:   color:#FFFFFF;
+  578  }
+  579  
+  ...
+  592  
+  593  .searchform button {
+  594:   background: #FFFFFF;
+  595    border: medium none;
+  596    border-radius: 0;
+  ...
+  607  .searchform  button:hover,
+  608  .searchform  button:focus{
+  609:   background-color:#FFFFFF;
+  610  }
+  611  
+  ...
+  631  
+  632  .footer-bottom p span a {
+  633:   color: #FFFFFF;
+  634    font-style: italic;
+  635    text-decoration: underline;
+  ...
+  700  
+  701  .carousel-indicators li.active {
+  702:     background: #FFFFFF;
+  703  }
+  704  
+  ...
+  726  
+  727  .item h1 span {
+  728:   color:#FFFFFF;
+  729  }
+  730  
+  ...
+  746  
+  747  .get {
+  748:   background: #FFFFFF;
+  749    border: 0 none;
+  750    border-radius: 0;
+  ...
+  758  
+  759  .item button:hover {
+  760:   background: #FFFFFF;
+  761  }
+  762  
+  ...
+  769  
+  770  .control-carousel:hover{
+  771:   color: #FFFFFF ;
+  772  }
+  773  
+  ...
+  783  }
+  784  .left-sidebar h2, .brands_products h2 {
+  785:   color: #FFFFFF;
+  786    font-family: 'Roboto', sans-serif;
+  787    font-size: 18px;
+  ...
+  930  
+  931  .tooltip-inner {
+  932:   background-color: #FFFFFF;
+  933    border-radius: 4px;
+  934    color: #FFFFFF;
+  ...
+  940  
+  941  .tooltip.top .tooltip-arrow {
+  942:   border-top-color: #FFFFFF;
+  943    border-width: 5px 5px 0;
+  944    bottom: 0;
+  ...
+  958  
+  959  h2.title {
+  960:   color: #FFFFFF;
+  961    font-family: 'Roboto', sans-serif;
+  962    font-size: 18px;
+  ...
+  986  
+  987  .productinfo h2{
+  988:   color: #FFFFFF;
+  989    font-family: 'Roboto', sans-serif;
+  990    font-size: 24px;
+  ...
+ 1085    border: 0 none;
+ 1086    border-radius: 0;
+ 1087:   color: #FFFFFF;
+ 1088    font-family: 'Roboto', sans-serif;
+ 1089    font-size: 15px;
+ ....
+ 1093  .product-overlay .add-to-cart:hover {
+ 1094    background:#fff;
+ 1095:   color: #FFFFFF;
+ 1096  }
+ 1097  
+ ....
+ 1117  
+ 1118  .add-to-cart:hover {
+ 1119:   background: #FFFFFF;
+ 1120    border: 0 none;
+ 1121    border-radius: 0;
+ ....
+ 1132  
+ 1133  .add-to-cart:hover {
+ 1134:   background: #FFFFFF;
+ 1135    color: #FFFFFF;
+ 1136  }
+ ....
+ 1154  .choose ul li a:hover{
+ 1155    background:none;
+ 1156:   color:#FFFFFF;
+ 1157  }
+ 1158  
+ ....
+ 1163  .category-tab ul {
+ 1164    background: #40403E;
+ 1165:   border-bottom: 1px solid #FFFFFF;
+ 1166    list-style: none outside none;
+ 1167    margin: 0 0 30px;
+ ....
+ 1181  
+ 1182  .category-tab ul  li  a:hover{
+ 1183:   background:#FFFFFF;
+ 1184    color:#fff;
+ 1185  }
+ ....
+ 1219  
+ 1220  .recommended-item-control i {
+ 1221:   background: none repeat scroll 0 0 #FFFFFF;
+ 1222    color: #FFFFFF;
+ 1223    font-size: 20px;
+ ....
+ 1277  
+ 1278  .pagination  .active  a, .pagination  .active  span, .pagination  .active  a:hover, .pagination  .active  span:hover, .pagination  .active  a:focus, .pagination  .active  span:focus {
+ 1279:   background-color: #FFFFFF;
+ 1280:   border-color: #FFFFFF;
+ 1281    color: #FFFFFF;
+ 1282    cursor: default;
+ ....
+ 1298  
+ 1299  .pagination  li  a:hover{
+ 1300:   background:#FFFFFF;
+ 1301    color:#fff;
+ 1302  }
+ ....
+ 1373  
+ 1374  .view-product h3 {
+ 1375:   background: #FFFFFF;
+ 1376    bottom: 0;
+ 1377    color: #FFFFFF;
+ ....
+ 1399  }
+ 1400  .item-control i {
+ 1401:   background: #FFFFFF;
+ 1402    color: #FFFFFF;
+ 1403    font-size: 20px;
+ ....
+ 1459  
+ 1460  .product-information span span {
+ 1461:   color: #FFFFFF;
+ 1462    float: left;
+ 1463    font-family: 'Roboto', sans-serif;
+ ....
+ 1492  
+ 1493  .cart {
+ 1494:   background: #FFFFFF;
+ 1495    border: 0 none;
+ 1496    border-radius: 0;
+ ....
+ 1537  
+ 1538  #reviews ul li a i{
+ 1539:   color:#FFFFFF;
+ 1540    padding-right:8px;
+ 1541  }
+ ....
+ 1543  #reviews ul li a:hover{
+ 1544    background:#fff;
+ 1545:   color:#FFFFFF;
+ 1546  }
+ 1547  
+ ....
+ 1583  
+ 1584  #reviews button {
+ 1585:   background: #FFFFFF;
+ 1586    border: 0 none;
+ 1587    border-radius: 0;
+ ....
+ 1622  
+ 1623  .content-404 h2 a {
+ 1624:   background: #FFFFFF;
+ 1625    color: #FFFFFF;
+ 1626    font-family: 'Roboto', sans-serif;
+ ....
+ 1677  
+ 1678  
+ 1679:   background: #FFFFFF;
+ 1680    border-radius: 0;
+ 1681    border: medium none;
+ ....
+ 1706  
+ 1707  .or{
+ 1708:   background: #FFFFFF;
+ 1709    border-radius: 40px;
+ 1710    color: #FFFFFF;
+ ....
+ 1869  
+ 1870  .cart_delete a:hover {
+ 1871:   background:#FFFFFF
+ 1872  }
+ 1873  
+ ....
+ 2267  .blog-post-area
+ 2268  .post-meta ul li i:after {
+ 2269:   border-color:transparent transparent transparent #FFFFFF;
+ 2270    border-style: solid;
+ 2271    border-width:4px;
+ ....
+ 2281  .post-meta ul span {
+ 2282    float: right;
+ 2283:   color: #FFFFFF
+ 2284  }
+ 2285  
+ ....
+ 2289  
+ 2290  .post-meta span i{
+ 2291:   color: #FFFFFF
+ 2292  }
+ 2293  
+ ....
+ 2296  .single-blog-post
+ 2297  .btn-primary {
+ 2298:   background:#FFFFFF;
+ 2299    border-radius: 0;
+ 2300    border: medium none;
+ ....
+ 2323  .pagination-area
+ 2324  .pagination li .active {
+ 2325:   background:#FFFFFF;
+ 2326    color: #fff
+ 2327  }
+ ....
+ 2351  .pager-area,
+ 2352  .pager li a:hover {
+ 2353:   background: #FFFFFF;
+ 2354    color: #fff
+ 2355  }
+ ....
+ 2384  .ratings .color,
+ 2385  .rating-area .color {
+ 2386:   color: #FFFFFF
+ 2387  }
+ 2388  
+ ....
+ 2472  
+ 2473  .blog-socials ul li a:hover {
+ 2474:   background:#FFFFFF
+ 2475    color: #fff;
+ 2476  }
+ ....
+ 2537  
+ 2538  .sinlge-post-meta li i {
+ 2539:   background:#FFFFFF;
+ 2540    color: #FFFFFF;
+ 2541    margin-right: 10px;
+ ....
+ 2564  
+ 2565  .replay-box label {
+ 2566:   background:#FFFFFF;
+ 2567    color: #FFFFFF;
+ 2568    float: left;
+ ....
+ 2573  
+ 2574  .replay-box span {
+ 2575:   color: #FFFFFF;
+ 2576    float: right;
+ 2577    font-weight: 700;
+ ....
+ 2590  .replay-box form input:hover,
+ 2591  .text-area textarea:hover {
+ 2592:   border: 1px solid #FFFFFF;
+ 2593  }
+ 2594  
+ ....
+ 2728  
+ 2729  .contact-info .social-networks ul li a:hover{
+ 2730:   color: #FFFFFF;
+ 2731  }
+ 2732  
+
+56 matches across 2 files
+
+
+Searching 56 files for "#FFFFFF"
+
+0 matches
